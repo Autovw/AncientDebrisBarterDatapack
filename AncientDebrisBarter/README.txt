@@ -4,8 +4,8 @@ Author: Autovw
 Licensed under the GNU General Public License v3.0
 ------------------------------------
 Description:
-Ancient Debris Barter is a Datapack designed for Advanced Netherite mod made by Autovw.
-This Datapack adds in a very low chance on obtaining Ancient Debris from bartering with piglins.
+Ancient Debris Barter is a Datapack designed for the Advanced Netherite mod made by Autovw.
+This Datapack adds in a very low chance on obtaining up to 2 Ancient Debris from bartering with piglins.
 ------------------------------------
 Disclaimer:
 This Datapack should only be downloaded from: https://github.com/Autovw/AncientDebrisBarterDatapack
